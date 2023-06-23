@@ -3,13 +3,8 @@ import React, { useContext, useState, useEffect } from "react";
 import {
   Container,
   Content,
-  Form,
-  Icon,
-  Input,
-  Grid,
   Button,
   Text,
-  Col,
   FooterTab,
   Footer,
   List,
